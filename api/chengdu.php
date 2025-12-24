@@ -1,4 +1,4 @@
-<?php
+hengdu<?php
 error_reporting(0);
 $id = isset($_GET['id']) ? $_GET['id'] : 'xwpd';
 $n = [
